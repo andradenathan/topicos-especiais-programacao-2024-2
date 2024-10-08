@@ -1,3 +1,5 @@
+# reference: https://en.wikipedia.org/wiki/Egyptian_fraction
+
 while True:
     try:
         k = int(input())
